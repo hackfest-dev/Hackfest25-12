@@ -1,0 +1,29 @@
+import json
+
+twin_schema = {
+    "@context": "https://www.w3.org/ns/td",
+    "id": "person123",
+    "title": "Health Digital Twin",
+    "properties": {
+        "age": { "type": "integer" },
+        "gender": { "type": "string" },
+        "ethnicity": { "type": "string" },
+        "heartRate": { "type": "integer" },
+        "bloodPressure": { "type": "string" },
+        "stressLevel": { "type": "integer" },
+        "sleepDuration": { "type": "float" },
+        "dailySteps": { "type": "integer" },
+        "emotionalState": { "type": "string" },
+        "cognitiveState": { "type": "string" },
+        "diabetesRiskScore": { "type": "float" },
+        "sleepDisorderPrediction": { "type": "string" }
+    }
+}
+
+#
+Save to a file
+file_path = "/mnt/data/personTwin.json"
+with open(file_path, "w") as f:
+    json.dump(twin_schema, f, indent = 2)
+
+file_pat
