@@ -45,7 +45,7 @@ The Healthcare Digital Twin Platform is an innovative suite of applications that
 </table>
 </div>
 
-<p align="center"><i>The digital twin concept has transformed industries from aerospace to manufacturing—yet healthcare, where the stakes are literally life and death, has lagged behind. Our platform bridges this gap, bringing the power of digital simulation to the deeply personal domain of human health.</i></p>
+<p align="center"><i> Our platform brings the power of digital simulation to the deeply personal domain of human health.</i></p>
 
 ## 📋 Components
 
