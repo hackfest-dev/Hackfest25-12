@@ -8,7 +8,7 @@
 
 The Healthcare Digital Twin Platform is an innovative suite of applications that leverages advanced AI and ML technologies to create personalized digital health twins. This platform helps users monitor, predict, and optimize their health while enabling healthcare professionals to test medications through sophisticated simulation models.
 
-## �� Why This Matters
+## Why This Matters
 
 <div align="center">
   <h3><i>The Healthcare Revolution We Need</i></h3>
