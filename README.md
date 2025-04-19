@@ -2,6 +2,8 @@
 
 ![Healthcare Digital Twin](https://cdn-icons-png.flaticon.com/512/3774/3774299.png)
 
+**Main Website:** [https://digital-twin-platypus.vercel.app](https://digital-twin-platypus.vercel.app)
+
 ## 🚀 Overview
 
 The Healthcare Digital Twin Platform is an innovative suite of applications that leverages advanced AI and ML technologies to create personalized digital health twins. This platform helps users monitor, predict, and optimize their health while enabling healthcare professionals to test medications through sophisticated simulation models.
@@ -45,6 +47,31 @@ An advanced simulation platform for drug testing and development that uses physi
 - Statistical modeling with time-series forecasting
 - Comprehensive visualization of drug effects
 - Parameter optimization for drug development
+- **Rich ML Models Ecosystem:**
+  - **Statistical Models**:
+    - Holt-Winters (Exponential Smoothing)
+    - ARIMA (AutoRegressive Integrated Moving Average)
+    - SARIMA (Seasonal ARIMA)
+    - VAR (Vector AutoRegression)
+    - Prophet
+  - **Tree-Based & Ensemble Models**:
+    - XGBoost
+    - LightGBM
+    - CatBoost
+    - Random Forest
+    - Gradient Boosting
+    - Extra Trees Regressor
+    - HGBR (Histogram-Based Gradient Boosting)
+  - **Regression Models**:
+    - SVR (Support Vector Regression)
+    - Ridge Regression
+    - Lasso Regression
+    - Bayesian Ridge Regression
+  - **Deep Learning Models**:
+    - LSTM (Long Short-Term Memory)
+    - GRU (Gated Recurrent Unit)
+    - CNN (Convolutional Neural Network for Time Series)
+  - This rich ensemble of sophisticated models dramatically reduce the need for physical testing, accelerate drug development timelines, and enable precise, personalized dosing strategies while minimizing adverse effects—ultimately saving time, costs, and potentially lives.
 
 ## 🔧 Technologies
 
