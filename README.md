@@ -86,6 +86,7 @@ An advanced simulation platform for drug testing and development that uses physi
 - Statistical modeling with time-series forecasting
 - Comprehensive visualization of drug effects
 - Parameter optimization for drug development
+- Usage of DeepSeek to assist doctors efficiently
 - **Rich ML Models Ecosystem:**
   - **Statistical Models**:
     - Holt-Winters (Exponential Smoothing)
